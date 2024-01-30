@@ -1,0 +1,7 @@
+setup.py
+MarksPrediction.egg-info/PKG-INFO
+MarksPrediction.egg-info/SOURCES.txt
+MarksPrediction.egg-info/dependency_links.txt
+MarksPrediction.egg-info/requires.txt
+MarksPrediction.egg-info/top_level.txt
+src/__init__.py

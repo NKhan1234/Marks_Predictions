@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: MarksPrediction
+Version: 0.0.1
+Author: Nadeem
+Author-email: nk0089573@gmail.com0
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
